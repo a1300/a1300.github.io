@@ -443,7 +443,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div>\r\n  <header>\r\n    <ul>\r\n      <div routerLink=\"/\">\r\n        <img id=\"titleImage\" src=\"../favicon.ico\" >\r\n      </div>\r\n      <li routerLink=\"/\"><p>{{title}}</p></li>\r\n      <li routerLink=\"tutorial\"><p>Tutorial</p></li>\r\n    </ul>\r\n  </header>\r\n\r\n  <foot></foot>\r\n  \r\n  <router-outlet></router-outlet>\r\n\r\n</div>"
+module.exports = "<div>\r\n  <header>\r\n    <ul>\r\n      <div routerLink=\"/\">\r\n        <img id=\"titleImage\" src=\"../assets/favicon.ico\" >\r\n      </div>\r\n      <li routerLink=\"/\"><p>{{title}}</p></li>\r\n      <li routerLink=\"tutorial\"><p>Tutorial</p></li>\r\n    </ul>\r\n  </header>\r\n\r\n  <foot></foot>\r\n  \r\n  <router-outlet></router-outlet>\r\n\r\n</div>"
 
 /***/ }),
 
